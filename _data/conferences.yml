@@ -1409,5 +1409,6 @@
   year: 2024
   date: "Jan 17-19, 2024"
   link: https://popl24.sigplan.org/
-  deadline: ["2023-07-11 AoE"]
+  deadline: ["2023-07-11 23:59"]
+  timezone: Etc/UTC+12
   place: London, UK
