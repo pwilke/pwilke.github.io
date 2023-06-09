@@ -1394,3 +1394,20 @@
   date: October 13
   place: Taipei, Taiwan
   tags: [SEC, SHOP]
+
+- name: OSDI
+  description: USENIX Symposium on Operating Systems Design and Implementation
+  year: 2024
+  date: "July 10-12, 2024"
+  link: https://www.usenix.org/conference/osdi24/call-for-papers
+  deadline: ["2023-11-30 22:59"]
+  place: Santa Clara, CA, USA
+  tags: [FORMAL, CONF]
+
+- name: POPL
+  description: ACM SIGPLAN Symposium on Principles of Programming Languages
+  year: 2024
+  date: "Jan 17-19, 2024"
+  link: https://popl24.sigplan.org/
+  deadline: ["2023-07-11 AoE"]
+  place: London, UK
