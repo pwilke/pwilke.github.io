@@ -9,4 +9,5 @@
   tag: CONF
 - name: Workshop
   tag: SHOP
-  
+- name: Formal
+  tag: FORMAL
