@@ -1557,3 +1557,44 @@
     - "2023-08-03"
     - "2023-11-23"
   tags: [SYS, SEC, CONF]
+
+- name: APLAS
+  year: 2023
+  description: Asian Symposium on Programming Languages and Systems
+  link: https://conf.researchr.org/home/aplas-2023
+  date: "Nov 27-29, 2023"
+  place: Taipei, Taiwan
+  deadline: "2023-06-15"
+  tags: [FORMAL, SYS, CONF]
+
+
+
+- name: PLDI
+  year: 2023
+  description: ACM SIGPLAN Conference on Programming Language Design and Implementation
+  link: https://pldi23.sigplan.org/
+  date: "June 17-21, 2023"
+  place: Orlando, Florida, USA
+  deadline: "2022-11-10"
+  tags: [FORMAL, SYS, CONF]
+
+- name: CPP
+  year: 2024
+  description: Certified Programs and Proofs
+  link: https://popl24.sigplan.org/home/CPP-2024
+  date: "Jan 15-16, 2024"
+  place: London, UK
+  comment: Colocated with POPL
+  deadline: "2023-09-12 23:59"
+  timezone: Etc/GMT+12
+  tags: [FORMAL, CONF]
+
+
+- name: CC
+  year: 2024
+  link: https://conf.researchr.org/home/CC-2024
+  description: International Conference on Compiler Construction
+  date: "Mar 2-3, 2024"
+  place: Edinburgh, UK
+  deadline: "2024-01-27"
+  tags: [CONF, FORMAL]
