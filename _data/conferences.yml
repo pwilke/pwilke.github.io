@@ -1423,3 +1423,12 @@
   timezone: Etc/GMT+12
   place: Bialystok, Poland
   tags: [FORMAL, CONF]
+
+- name: CAV
+  description:  International Conference on Computer Aided Verification
+  link: http://www.i-cav.org/2023/
+  date: "July 17-22, 2023"
+  deadline: ["2023-02-03"]
+  place: Paris, France
+  tags: [FORMAL, CONF]
+
