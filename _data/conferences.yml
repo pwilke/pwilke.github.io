@@ -1412,3 +1412,14 @@
   deadline: ["2023-07-11 23:59"]
   timezone: Etc/GMT+12
   place: London, UK
+  tags: [FORMAL, CONF]
+
+- name: ITP
+  description: Interactive Theorem Proving
+  year: 2023
+  date: "Jul 31-Aug 4, 2023"
+  link: https://mizar.uwb.edu.pl/ITP2023/
+  deadline: ["2023-02-13 23:59"]
+  timezone: Etc/GMT+12
+  place: Bialystok, Poland
+  tags: [FORMAL, CONF]
