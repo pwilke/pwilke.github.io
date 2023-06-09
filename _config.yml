@@ -1,14 +1,13 @@
 title: Security and Privacy Conference Deadlines
 description: Countdowns to top Security and Privacy conference deadlines.
-author: Bogdan Kulynych
+author: Pierre Wilke
 
-domain: "sec-deadlines.github.io"
+domain: "pwilke.github.io"
 baseurl: ""
 
-twitter_username: hiddenmarkov
-github_username: sec-deadlines
-github_repo: sec-deadlines
-ga_id: UA-104921371-1
+twitter_username: @wilkepierre
+github_username: pwilke
+github_repo: pwilke.github.io
 
 markdown: kramdown
 
