@@ -1564,7 +1564,7 @@
   link: https://conf.researchr.org/home/aplas-2023
   date: "Nov 27-29, 2023"
   place: Taipei, Taiwan
-  deadline: "2023-06-15"
+  deadline: ["2023-06-15"]
   tags: [FORMAL, SYS, CONF]
 
 
@@ -1575,7 +1575,7 @@
   link: https://pldi23.sigplan.org/
   date: "June 17-21, 2023"
   place: Orlando, Florida, USA
-  deadline: "2022-11-10"
+  deadline: ["2022-11-10"]
   tags: [FORMAL, SYS, CONF]
 
 - name: CPP
@@ -1585,7 +1585,7 @@
   date: "Jan 15-16, 2024"
   place: London, UK
   comment: Colocated with POPL
-  deadline: "2023-09-12 23:59"
+  deadline: ["2023-09-12 23:59"]
   timezone: Etc/GMT+12
   tags: [FORMAL, CONF]
 
@@ -1596,5 +1596,5 @@
   description: International Conference on Compiler Construction
   date: "Mar 2-3, 2024"
   place: Edinburgh, UK
-  deadline: "2024-01-27"
+  deadline: ["2024-01-27"]
   tags: [CONF, FORMAL]
