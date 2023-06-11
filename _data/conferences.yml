@@ -1598,3 +1598,12 @@
   place: Edinburgh, UK
   deadline: ["2024-01-27"]
   tags: [CONF, FORMAL]
+
+- name: FM
+  year: 2023
+  link: https://fm2023.isp.uni-luebeck.de/wordpress/index.php/call-for-paper/
+  description: International Symposium on Formal Methods
+  date: "Mar 7-9, 2023"
+  place: "Lübeck, Germany"
+  deadline: ["2022-09-04"]
+  tags: [CONF, FORMAL]
