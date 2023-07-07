@@ -132,12 +132,12 @@
   place: St. Kitts
   tags: [SEC, CRYPTO, CONF]
 - name: FPS
-  year: 2022
-  date: "Dec 12–14"
-  description: 15th International Symposium on Foundations & Practice of Security
-  link: https://www.fps-2022.com
-  deadline: ["2022-10-07 23:59"]
-  place: Ottawa, Ontario, Canada
+  year: 2023
+  date: "Dec 11–13"
+  description: The 16th Foundations and Practice of Security Symposium
+  link: https://www.fps-2023.com
+  deadline: ["2023-09-15 23:59"]
+  place: Bordeaux, France
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SSR
@@ -1119,7 +1119,7 @@
   description: Workshop on Attacks and Software Protection
   year: 2023
   link: https://wasp-workshop.github.io/
-  deadline: ["2023-06-30 23:59"]
+  deadline: ["2023-07-09 23:59"]
   comment: Co-located with ESORICS 2023
   date: September 28-29
   place: The Hague, The Netherlands
