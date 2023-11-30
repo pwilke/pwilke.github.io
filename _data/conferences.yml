@@ -140,6 +140,159 @@
   place: Bordeaux, France
   tags: [SEC, PRIV, CRYPTO, CONF]
 
+- name: SECRYPT
+  description: International Conference on Security and Cryptography
+  year: 2024
+  link: https://secrypt.scitevents.org/ImportantDates.aspx
+  deadline: ["2024-02-15 23:59"]
+  date: July 8-10
+  place: Dijon, France
+  tags: [CRYPTO, CONF]
+
+- name: CHES
+  description: IACR Transactions on Cryptographic Hardware and Embedded Systems
+  year: 2024
+  link: https://ches.iacr.org/
+  deadline:
+    - "%Y-07-15 23:59"
+    - "%Y-10-15 23:59"
+    - "%y-01-15 23:59"
+    - "%y-04-15 23:59"
+  comment: Rolling deadline every quarter
+  date: September
+  place: TBD
+  tags: [CRYPTO, CONF]
+
+# Networks and systems, applications
+
+- name: RAID
+  description: International Symposium on Research in Attacks, Intrusions and Defenses
+  year: 2023
+  link: https://raid2023.org
+  deadline: ["2023-03-29 23:59"]
+  date: October 16-18
+  place: Hong Kong, China
+  tags: [SEC, CONF]
+
+- name: ACSAC
+  description: Annual Computer Security Applications Conference
+  year: 2023
+  link: https://www.acsac.org/2023/
+  deadline: ["2023-05-26 23:59"]
+  comment: Abstract deadline on May 22nd
+  date: Dec 4-8
+  place: Austin, TX, USA
+  tags: [SEC, CONF]
+
+- name: DSN
+  description: The International Conference on Dependable Systems and Networks
+  year: 2024
+  link: https://dsn2024uq.github.io/index.html
+  deadline: ["2023-12-06 23:59"]
+  comment: Abstract deadline on Nov 29
+  date: June 24-27
+  place: Brisbane, Australia
+  tags: [SEC, CONF]
+
+- name: ACNS
+  description: International Conference on Applied Cryptography and Network Security
+  year: 2024
+  link: https://wp.nyu.edu/acns2024/
+  deadline: 
+    - "2023-07-20 23:59"
+    - "2023-10-20 23:59"
+  date: March 5-8
+  place: Abu Dhabi, UAE
+  tags: [CRYPTO, SEC, CONF]
+
+- name: DIMVA
+  description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
+  year: 2024
+  link: https://www.dimva.org/dimva2024/
+  deadline:
+    - "2023-12-06 23:59"
+    - "2024-02-14 23:59"
+  date: July 17-19
+  place: Lausanne, Switzerland
+  tags: [SEC, CONF]
+
+- name: SACMAT
+  description: ACM Symposium on Access Control Models and Technologies
+  year: 2023
+  link: https://sacmat2023.fbk.eu/
+  deadline: 
+    - "2022-12-15 23:59"
+    - "2023-02-17 23:59"
+  date: June 7-9
+  place: Trento, Italy
+  tags: [CRYPTO, SEC, CONF, PRIV]
+
+- name: ARES
+  description: International Conference on Availability, Reliability and Security
+  year: 2024
+  link: https://www.ares-conference.eu
+  deadline: ["2024-02-28 23:59"]
+  date: July 30 - August 2
+  place: Vienna, Austria
+  tags: [SEC, CONF, PRIV]
+
+- name: CODASPY
+  description: ACM Conference on Data and Application Security and Privacy
+  year: 2024
+  link: http://www.codaspy.org/2024/
+  deadline: ["2023-12-18 23:59"]
+  date: June 19-21
+  place: Porto, Portugal
+  tags: [CRYPTO, SEC, CONF, PRIV]
+
+- name: DBSec
+  description: Conference on Data and Applications Security and Privacy
+  year: 2023
+  link: http://www.dbsec2023.unimol.it
+  deadline: ["2023-04-07 23:59"]
+  comment: Abstracts due March 31
+  date: July 19 - 21
+  place: Sophia Antipolis, France
+  tags: [CRYPTO, SEC, CONF, PRIV]
+
+- name: The Web Conference
+  description: International Conference on the World Wide Web
+  year: 2024
+  link: https://www2024.thewebconf.org
+  deadline: ["2023-10-12 23:59"]
+  date: May 13 - May 17
+  place: Singapore
+  tags: [SEC, CONF, PRIV]
+
+- name: eCrime
+  year: 2023
+  date: November 15 - 17
+  description: The Symposium on Electronic Crime Research
+  link: https://apwg.org/event/ecrime2023/
+  deadline: ["2023-09-01 23:59"]
+  place: Barcelona, Spain
+  tags: [SEC, PRIV, CONF]
+
+- name: PAM
+  year: 2024
+  date: "March 11 – 13"
+  description: Passive and Active Measurement Conference
+  link: https://pam2024.cs.northwestern.edu/cfp/
+  deadline: ["2023-11-02 23:59"]
+  place: Virtual
+  tags: [SEC, PRIV, CONF]
+
+- name: NCA
+  description: IEEE International Symposium on Network Computing and Applications
+  year: 2024
+  link: https://www.nca-ieee.org/2024/index.html
+  deadline: ["2024-02-11 23:59"]
+  date: April 11-13
+  place: Bertinoro, Italy
+  tags: [SEC, CONF]
+
+# Others, less frequently updated
+
 - name: SSR
   description: Security Standardisation Research Conference
   year: 2023
@@ -1509,21 +1662,21 @@
 
 - name: ITP
   description: Interactive Theorem Proving
-  year: 2023
-  date: "Jul 31-Aug 4, 2023"
-  link: https://mizar.uwb.edu.pl/ITP2023/
-  deadline: ["2023-02-13 23:59"]
+  year: 2024
+  date: "Sep 9-14, 2024"
+  link: https://itp-conference.github.io/
+  deadline: ["2024-02-13"]
   timezone: Etc/GMT+12
-  place: Bialystok, Poland
+  place: Tbilisi, Georgia
   tags: [FORMAL, CONF]
 
 - name: CAV
   description:  International Conference on Computer Aided Verification
-  link: http://www.i-cav.org/2023/
-  date: "July 17-22, 2023"
-  year: 2023
-  deadline: ["2023-02-03"]
-  place: Paris, France
+  link: http://www.i-cav.org/2024/
+  date: "July 22-27, 2024"
+  year: 2024
+  deadline: ["2024-01-19"]
+  place: Montreal, Canada
   tags: [FORMAL, CONF]
 
 - name: EuroSys
@@ -1539,23 +1692,24 @@
 
 - name: IFIP Sec
   description: International Conference on ICT Systems Security and Privacy Protection
-  year: 2023
-  place: Poznan, Poland
-  date: "Jun 14-16, 2023"
+  year: 2024
+  link: https://ifipsec2024.co.uk
+  place: Edinburgh, United Kingdom
+  date: "Jun 12-14, 2024"
   deadline:
-    - "2023-03-12"
+    - "2024-01-15"
   tags: [SEC, CONF]
 
 - name: ASPLOS
   description: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
   link: https://www.asplos-conference.org/asplos2024/cfp/
-  date: "April, 2024"
-  place: California, USA
+  date: "April 27 - May 1, 2024"
+  place: San Diego, California, USA
   year: 2024
   deadline:
     - "2023-04-13"
     - "2023-08-03"
-    - "2023-11-23"
+    - "2023-11-24"
   tags: [SYS, SEC, CONF]
 
 - name: APLAS
@@ -1570,12 +1724,12 @@
 
 
 - name: PLDI
-  year: 2023
+  year: 2024
   description: ACM SIGPLAN Conference on Programming Language Design and Implementation
-  link: https://pldi23.sigplan.org/
-  date: "June 17-21, 2023"
-  place: Orlando, Florida, USA
-  deadline: ["2022-11-10"]
+  link: https://pldi24.sigplan.org/
+  date: "June 24-28, 2024"
+  place: Copenhagen, Denmark
+  deadline: ["2023-11-16"]
   tags: [FORMAL, SYS, CONF]
 
 - name: CPP
@@ -1600,10 +1754,11 @@
   tags: [CONF, FORMAL]
 
 - name: FM
-  year: 2023
-  link: https://fm2023.isp.uni-luebeck.de/wordpress/index.php/call-for-paper/
+  year: 2024
+  link: https://www.fm24.polimi.it/
   description: International Symposium on Formal Methods
-  date: "Mar 7-9, 2023"
-  place: "Lübeck, Germany"
-  deadline: ["2022-09-04"]
+  date: "Sep 11-13, 2024"
+  place: "Milano, Italy"
+  deadline: ["2024-04-19"]
+  comment: Abstract registration April 15th AoE (firm).
   tags: [CONF, FORMAL]
