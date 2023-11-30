@@ -16,13 +16,13 @@
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2023
-  link: https://www.sigsac.org/ccs/CCS2023
+  year: 2024
+  link: https://www.sigsac.org/ccs/CCS2024
   deadline:
-    - "2023-01-19 23:59"
-    - "2023-05-04 23:59"
-  date: November 26-30
-  place: Copenhagen, Denmark
+    - "2024-01-28 23:59"
+    - "2024-04-14 23:59"
+  date: October 14-18, 2024
+  place: Salt Lake City, USA
   tags: [SEC, PRIV, CONF]
 
 - name: USENIX Security
@@ -143,11 +143,11 @@
 
 - name: SECRYPT
   description: International Conference on Security and Cryptography
-  year: 2023
+  year: 2024
   link: https://secrypt.scitevents.org/ImportantDates.aspx
-  deadline: ["2023-02-23 23:59"]
-  date: July 10-12
-  place: Rome, Italy
+  deadline: ["2024-02-15 23:59"]
+  date: July 8-10
+  place: Dijon, France
   tags: [CRYPTO, CONF]
 
 - name: CHES
@@ -230,11 +230,11 @@
 
 - name: ARES
   description: International Conference on Availability, Reliability and Security
-  year: 2023
+  year: 2024
   link: https://www.ares-conference.eu
-  deadline: ["2023-03-09 23:59"]
-  date: August 29 - September 01
-  place: Benevento, Italy
+  deadline: ["2024-02-28 23:59"]
+  date: July 30 - August 2
+  place: Vienna, Austria
   tags: [SEC, CONF, PRIV]
 
 - name: CODASPY
@@ -359,13 +359,13 @@
 
 - name: HOST
   description: IEEE International Symposium on Hardware Oriented Security and Trust
-  year: 2023
+  year: 2024
   link: http://www.hostsymposium.org/
   deadline: 
-    - "2022-10-24 23:59"
-    - "2023-01-23 23:59"
-  date: May 1-4
-  place: San Jose, CA, USA
+    - "2023-09-04 23:59"
+    - "2023-12-18 23:59"
+  date: May 6-9, 2024
+  place: Washington, DC, USA
   tags: [SEC, CONF]
 
 - name: AsianHOST
@@ -540,21 +540,21 @@
 
 - name: ITP
   description: Interactive Theorem Proving
-  year: 2023
-  date: "Jul 31-Aug 4, 2023"
-  link: https://mizar.uwb.edu.pl/ITP2023/
-  deadline: ["2023-02-13 23:59"]
+  year: 2024
+  date: "Sep 9-14, 2024"
+  link: https://itp-conference.github.io/
+  deadline: ["2024-02-13"]
   timezone: Etc/GMT+12
-  place: Bialystok, Poland
+  place: Tbilisi, Georgia
   tags: [FORMAL, CONF]
 
 - name: CAV
   description:  International Conference on Computer Aided Verification
-  link: http://www.i-cav.org/2023/
-  date: "July 17-22, 2023"
-  year: 2023
-  deadline: ["2023-02-03"]
-  place: Paris, France
+  link: http://www.i-cav.org/2024/
+  date: "July 22-27, 2024"
+  year: 2024
+  deadline: ["2024-01-19"]
+  place: Montreal, Canada
   tags: [FORMAL, CONF]
 
 - name: EuroSys
@@ -570,23 +570,24 @@
 
 - name: IFIP Sec
   description: International Conference on ICT Systems Security and Privacy Protection
-  year: 2023
-  place: Poznan, Poland
-  date: "Jun 14-16, 2023"
+  year: 2024
+  link: https://ifipsec2024.co.uk
+  place: Edinburgh, United Kingdom
+  date: "Jun 12-14, 2024"
   deadline:
-    - "2023-03-12"
+    - "2024-01-15"
   tags: [SEC, CONF]
 
 - name: ASPLOS
   description: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
   link: https://www.asplos-conference.org/asplos2024/cfp/
-  date: "April, 2024"
-  place: California, USA
+  date: "April 27 - May 1, 2024"
+  place: San Diego, California, USA
   year: 2024
   deadline:
     - "2023-04-13"
     - "2023-08-03"
-    - "2023-11-23"
+    - "2023-11-24"
   tags: [SYS, SEC, CONF]
 
 - name: APLAS
@@ -601,12 +602,12 @@
 
 
 - name: PLDI
-  year: 2023
+  year: 2024
   description: ACM SIGPLAN Conference on Programming Language Design and Implementation
-  link: https://pldi23.sigplan.org/
-  date: "June 17-21, 2023"
-  place: Orlando, Florida, USA
-  deadline: ["2022-11-10"]
+  link: https://pldi24.sigplan.org/
+  date: "June 24-28, 2024"
+  place: Copenhagen, Denmark
+  deadline: ["2023-11-16"]
   tags: [FORMAL, SYS, CONF]
 
 - name: CPP
@@ -631,12 +632,13 @@
   tags: [CONF, FORMAL]
 
 - name: FM
-  year: 2023
-  link: https://fm2023.isp.uni-luebeck.de/wordpress/index.php/call-for-paper/
+  year: 2024
+  link: https://www.fm24.polimi.it/
   description: International Symposium on Formal Methods
-  date: "Mar 7-9, 2023"
-  place: "Lübeck, Germany"
-  deadline: ["2022-09-04"]
+  date: "Sep 11-13, 2024"
+  place: "Milano, Italy"
+  deadline: ["2024-04-19"]
+  comment: Abstract registration April 15th AoE (firm).
   tags: [CONF, FORMAL]
 
 
