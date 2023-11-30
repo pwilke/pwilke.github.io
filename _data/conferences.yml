@@ -1665,7 +1665,7 @@
   year: 2024
   date: "Sep 9-14, 2024"
   link: https://itp-conference.github.io/
-  deadline: ["2024-02-13"]
+  deadline: ["2024-02-13 23:59"]
   timezone: Etc/GMT+12
   place: Tbilisi, Georgia
   tags: [FORMAL, CONF]
@@ -1675,7 +1675,7 @@
   link: http://www.i-cav.org/2024/
   date: "July 22-27, 2024"
   year: 2024
-  deadline: ["2024-01-19"]
+  deadline: ["2024-01-19 23:59"]
   place: Montreal, Canada
   tags: [FORMAL, CONF]
 
@@ -1697,7 +1697,7 @@
   place: Edinburgh, United Kingdom
   date: "Jun 12-14, 2024"
   deadline:
-    - "2024-01-15"
+    - "2024-01-15 23:59"
   tags: [SEC, CONF]
 
 - name: ASPLOS
@@ -1729,7 +1729,7 @@
   link: https://pldi24.sigplan.org/
   date: "June 24-28, 2024"
   place: Copenhagen, Denmark
-  deadline: ["2023-11-16"]
+  deadline: ["2023-11-16 23:59"]
   tags: [FORMAL, SYS, CONF]
 
 - name: CPP
@@ -1759,6 +1759,6 @@
   description: International Symposium on Formal Methods
   date: "Sep 11-13, 2024"
   place: "Milano, Italy"
-  deadline: ["2024-04-19"]
+  deadline: ["2024-04-19 23:59"]
   comment: Abstract registration April 15th AoE (firm).
   tags: [CONF, FORMAL]
