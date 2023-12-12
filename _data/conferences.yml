@@ -1665,7 +1665,8 @@
   year: 2024
   date: "Sep 9-14, 2024"
   link: https://itp-conference.github.io/
-  deadline: ["2024-02-13 23:59"]
+  deadline: ["2024-02-26 23:59"]
+  comment: Abstract registration Feb. 19
   timezone: Etc/GMT+12
   place: Tbilisi, Georgia
   tags: [FORMAL, CONF]
@@ -1758,7 +1759,47 @@
   link: https://www.fm24.polimi.it/
   description: International Symposium on Formal Methods
   date: "Sep 11-13, 2024"
-  place: "Milano, Italy"
+  place: "Milan, Italy"
   deadline: ["2024-04-19 23:59"]
   comment: Abstract registration April 15th AoE (firm).
   tags: [CONF, FORMAL]
+
+- name: ICFP
+  year: 2024
+  link: https://icfp24.sigplan.org/
+  description: International Conference on Functional Programming
+  place: "Milan, Italy"
+  deadline: ["2024-02-28 23:59"]
+  date: "Sep 2-7, 2024"
+  tags: [CONF, FORMAL]
+
+- name: SPLASH
+  year: 2024
+  link: https://2024.splashcon.org
+  description: "ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity"
+  date: "Oct 20-25, 2024"
+  place: "Pasadena, CA, USA"
+  deadline:
+    - "2023-10-20 23:59"
+    - "2024-04-05 23:59"
+  tags: [CONF, FORMAL]
+
+- name: ETAPS
+  year: 2024
+  link: https://www.etaps.org/2024
+  description: "European Symposium On Programming"
+  date: "Apr 6-11, 2024"
+  place: "Luxembourg"
+  deadline:
+    - "2023-10-12 23:59"
+  tags: [CONF, FORMAL]
+
+- name: SOSP
+  year: 2024
+  link: https://sigops.org/s/conferences/sosp/2024/
+  description: "Symposium on Operating Systems Principles"
+  date: "Nov 4-6, 2024"
+  place: "Austin, Texas, USA"
+  deadline:
+    - "2023-04-01 23:59"
+  tags: [CONF, FORMAL, SYS]
