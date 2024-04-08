@@ -2036,6 +2036,7 @@
     - "2023-11-24"
   tags: [SYS, SEC, CONF]
 
+
 - name: APLAS
   year: 2023
   description: Asian Symposium on Programming Languages and Systems
@@ -2067,7 +2068,6 @@
   timezone: Etc/GMT+12
   tags: [FORMAL, CONF]
 
-
 - name: CC
   year: 2024
   link: https://conf.researchr.org/home/CC-2024
@@ -2085,6 +2085,16 @@
   place: "Milano, Italy"
   deadline: ["2024-04-19 23:59"]
   comment: Abstract registration April 15th AoE (firm).
+  tags: [CONF, FORMAL]
+
+- name: iFM
+  year: 2024
+  link: https://ifm2024.cs.manchester.ac.uk/submissions.html
+  description: International Conference on Integrated Formal Methods
+  date: "November 13-15, 2024"
+  place: "Manchester, UK"
+  deadline: ["2024-06-10 23:59"]
+  comment: Abstract registration June 3rd
   tags: [CONF, FORMAL]
 
 - name: ICFP
