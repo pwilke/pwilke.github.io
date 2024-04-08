@@ -1714,12 +1714,12 @@
   tags: [SYS, SEC, CONF, FORMAL]
 
 - name: APLAS
-  year: 2023
+  year: 2024
   description: Asian Symposium on Programming Languages and Systems
-  link: https://conf.researchr.org/home/aplas-2023
-  date: "Nov 27-29, 2023"
-  place: Taipei, Taiwan
-  deadline: ["2023-06-15"]
+  link: https://conf.researchr.org/home/aplas-2024
+  date: "Oct 22-25, 2024"
+  place: Kyoto
+  deadline: ["2024-05-24"]
   tags: [FORMAL, SYS, CONF]
 
 
