@@ -139,6 +139,146 @@
   place: Bordeaux, France
   tags: [SEC, PRIV, CRYPTO, CONF]
 
+- name: IMF
+  year: 2024
+  date: "September 17–18"
+  description: International Conference on IT Security Incident Management and IT Forensics
+  link: https://www.imf-conference.org/
+  deadline: ["2024-04-21 23:59"]
+  place: Saarbrucken, Germany
+  tags: [SEC, CONF]
+
+- name: SciSec
+  description: International Conference on Science of Cyber Security
+  year: 2024
+  link: https://scisec.org/
+  deadline: ["2024-05-15 23:59"]
+  date: August 14-16
+  place: Copenhagen, DK
+  tags: [SEC, CONF]
+
+- name: EDId
+  description: 1st International Workshop on Emerging Digital Identitiesy
+  year: 2024
+  link: https://www.ares-conference.eu/edid
+  deadline: ["2024-05-08 23:59"]
+  date: July 30- August 02
+  place: Vienna, AT
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+# Privacy
+
+- name: PETS
+  description: Privacy Enhancing Technologies Symposium
+  year: 2024
+  link: https://www.petsymposium.org/cfp24.php
+  deadline:
+    - "%Y-05-31 23:59"
+    - "%Y-08-31 23:59"
+    - "%Y-11-30 23:59"
+    - "%y-02-28 23:59"
+  comment: Rolling deadline every quarter
+  timezone: Etc/GMT+11
+  date: July 15-20
+  place: Bristol, UK
+  tags: [PRIV, CONF]
+
+- name: LPW
+  description: Location Privacy Workshop
+  year: 2023
+  link: http://security.ucc.ie/lpw23/
+  deadline: ["2023-03-27 23:59"]
+  comment: Co-located with Euro S&P 2023
+  date: July 7
+  place: Delft, The Netherlands
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+# Crypto
+
+- name: Inscrypt
+  year: 2023
+  description: International Conference on Information Security and Cryptology
+  link: https://inscrypt2023.github.io/
+  deadline: ["2023-07-15 23:59"]
+  timezone: Etc/GMT-8
+  date: November 11-12
+  place: HangZhou, China
+  tags: [SEC, PRIV, CRYPTO, CONF]
+
+- name: SAC
+  description: Selected Areas in Cryptography
+  year: 2023
+  link: https://sac-workshop.github.io/sac-2023/
+  deadline: ["2023-05-16 11:59"]
+  date: August 16-18
+  place: Fredricton, NB, Canada
+  tags: [CRYPTO, CONF]
+
+- name: Crypto
+  description: International Cryptology Conference
+  year: 2024
+  link: https://crypto.iacr.org/2024/
+  deadline: ["2024-02-13 11:00"]
+  date: August 18-22
+  place: Santa Barbara, CA, USA
+  tags: [CRYPTO, CONF]
+
+- name: Eurocrypt
+  description: European Cryptology Conference
+  year: 2024
+  link: https://eurocrypt.iacr.org/2024/
+  deadline: ["2023-10-06 23:59"]
+  date: May 26-30
+  place: Zurich, Switzerland
+  tags: [CRYPTO, CONF]
+
+- name: Asiacrypt
+  description: International Conference on the Theory and Application of Cryptology and Information Security
+  year: 2023
+  link: https://asiacrypt.iacr.org/2023/
+  deadline: ["2023-05-26 11:59"]
+  timezone: Etc/UTC
+  date: December 4-8
+  place: Guangzhou, China
+  tags: [CRYPTO, CONF]
+  
+- name: AFT
+  description: ACM Conference on Advances in Financial Technologies
+  year: 2023
+  link: https://aftconf.github.io/aft23/
+  deadline: ["2023-06-15 23:59"]
+  date: "September 23–26"
+  place: Princeton, NJ, USA
+  tags: [SEC, PRIV, CRYPTO, CONF]
+
+- name: TCC
+  description: Theory of Cryptography Conference
+  year: 2023
+  link: https://tcc.iacr.org/2023/
+  deadline: ["2023-06-01 23:59"]
+  date: "November 29-December 2"
+  place: Taipei, Taiwan
+  tags: [CRYPTO, CONF]
+
+- name: PKC
+  description: International Conference on Practice and Theory of Public Key Cryptography
+  year: 2024
+  link: https://pkc.iacr.org/2024/
+  deadline: ["2023-10-15 09:59"]
+  timezone: Etc/UTC
+  date: April 15-17
+  place: Sydney, Australia
+  tags: [CRYPTO, CONF]
+
+- name: CT-RSA
+  description: RSA Conference Cryptographers’ Track
+  year: 2024
+  link: https://ct-rsa-2024.aau.at/
+  deadline: ["2023-10-02 23:59"]
+  date: May 6-9
+  place: San Francisco, CA, USA
+  tags: [CRYPTO, CONF]
+
 - name: SECRYPT
   description: International Conference on Security and Cryptography
   year: 2024
