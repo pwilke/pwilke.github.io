@@ -1425,7 +1425,28 @@
   date: September 28-29
   place: The Hague, The Netherlands
   tags: [SEC, SHOP]
-  
+
+- name: FUZZING
+  year: 2023
+  date: "July 17"
+  description: International Fuzzing Workshop
+  link: https://fuzzingworkshop.github.io/index.html
+  deadline:
+    - "2023-05-08 23:59"
+  place: Seattle, Washington, USA
+  comment: Co-located with ISSTA 2023
+  tags: [SEC, SHOP]
+
+- name: SECAI
+  description: Workshop on Security and Artificial Intelligance
+  year: 2024
+  link: https://sites.google.com/view/secai2024
+  deadline: ["2024-06-19 23:59"]
+  comment: Co-located with ESORICS 2024
+  date: September 16-20
+  place: Bydgoszcz, Poland
+  tags: [SEC, PRIV, SHOP]
+
 - name: ASHES
   description: Workshop on Attacks and Solutions in Hardware Security
   year: 2024
@@ -2033,13 +2054,3 @@
   place: Paris, France
   date: "June 26"
   tags: [SEC, PRIV, CRYPTO, SHOP]
-
-- name: SECAI
-  description: Workshop on Security and Artificial Intelligance
-  year: 2023
-  link: https://sites.google.com/view/secai2024
-  deadline: ["2023-06-19 23:59"]
-  comment: Co-located with ESORICS 2024
-  date: September 16-20
-  place: Bydgoszcz, Poland
-  tags: [SEC, PRIV, SHOP]
