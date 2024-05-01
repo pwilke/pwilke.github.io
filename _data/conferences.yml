@@ -700,6 +700,16 @@
   comment: Co-located with ISSTA 2023
   tags: [SEC, SHOP]
 
+- name: SECAI
+  description: Workshop on Security and Artificial Intelligance
+  year: 2024
+  link: https://sites.google.com/view/secai2024
+  deadline: ["2024-06-19 23:59"]
+  comment: Co-located with ESORICS 2024
+  date: September 16-20
+  place: Bydgoszcz, Poland
+  tags: [SEC, PRIV, SHOP]
+  
 - name: ASHES
   description: Workshop on Attacks and Solutions in Hardware Security 
   year: 2023
@@ -963,13 +973,3 @@
   place: Paris, France
   date: "June 26"
   tags: [SEC, PRIV, CRYPTO, SHOP]
-
-- name: SECAI
-  description: Workshop on Security and Artificial Intelligance
-  year: 2023
-  link: https://sites.google.com/view/secai2024
-  deadline: ["2023-06-19 23:59"]
-  comment: Co-located with ESORICS 2024
-  date: September 16-20
-  place: Bydgoszcz, Poland
-  tags: [SEC, PRIV, SHOP]
