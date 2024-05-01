@@ -131,6 +131,24 @@
   comment: Paper registration due May 5th AoE
   date: September 10-September 11
   place: Manchester, UK
+
+- name: FC
+  description: Financial Cryptography and Data Security
+  year: 2024
+  link: https://fc24.ifca.ai
+  deadline: ["2023-09-20 23:59"]
+  date: March 4-8
+  place: Willemstad, Curacao
+  tags: [SEC, CRYPTO, CONF]
+
+- name: Euro S&P
+  description: IEEE European Symposium on Security and Privacy
+  year: 2024
+  comment: Abstract registration October 30th AoE (firm).
+  link: https://eurosp2024.ieee-security.org/
+  deadline: ["2023-11-02 23:59"]
+  date: "July 8 - 12"
+  place: Vienna, Austria 
   tags: [SEC, PRIV, CONF]
 
 - name: FC
