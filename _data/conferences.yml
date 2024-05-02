@@ -2012,74 +2012,11 @@
     - "2023-04-01 23:59"
   tags: [CONF, FORMAL, SYS]
 
-- name: IoT-SECFOR
-  description: International Workshop on Security and Forensics of IoT
-  year: 2024
-  link: https://www.ares-conference.eu/workshops/iotsecfor/
-  deadline: ["2024-04-29 23:59"]
-  comment: Co-located with ARES 2024
-  date: Jul 30
-  place: Vienna, Austria
-  tags: [SEC, SHOP]
 
-- name: ICISS
-  description: International Conference on Information Systems Security
+- name: POPL
+  description: ACM SIGPLAN Symposium on Principles of Programming Languages
   year: 2024
-  link: https://iciss.isrdc.in/
-  deadline: ["2024-07-10 23:59"]
-  date: December 16-20
-  place: Jaipur, India
-  tags: [SEC, PRIV, CONF]
-
-- name: CPSS
-  description: ACM Cyber-Physical System Security Workshop
-  year: 2024
-  link: https://asiaccs2024.sutd.edu.sg/cpss2024/
-  comment: Co-located with ACM AsiaCCS 2024
-  deadline:
-    - "2024-01-15 23:59"
-    - "2024-02-18 23:59"
-  date: "July 2"
-  place: Singapore
-  tags: [SEC, PRIV, CONF]
-
-- name: WACCO
-  description: Workshop on Attackers and Cyber-Crime Operations
-  year: 2024
-  link: https://wacco-workshop.org/
-  deadline: ["2024-03-15 23:59"]
-  date: July 8
-  place: Vienna, Austria
-  tags: [SEC, PRIV]
-
-- name: IWSEC 
-  description: The 19th International Workshop on Security
-  year: 2024
-  link: https://www.iwsec.org/2024/
-  deadline: ["2024-04-28 23:59"]
-  timezone: Etc/UTC
-  date: September 17-19
-  place: Kyoto, JP
-  tags: [SEC, PRIV, CRYPTO, SHOP]
-
-- name: CSET
-  description: Cyber Security Experimentation and Test Workshop
-  year: 2024
-  link: https://cset24.isi.edu/
-  comment: Co-located with USENIX Security
-  deadline: ["2024-05-17 20:00"]
-  timezone: America/New_York
-  date: August 13
-  place: Philadelphia, PA, USA
-  tags: [SEC, SHOP]
-
-- name: QSNS
-  year: 2024
-  description: Workshop on Quantum-Secure Networks and Systems
-  comment: Co-located with IEEE ISCC 2024
-  link: https://qubip.eu/qsns2024/
-  deadline: ["2024-05-05 23:59"]
-  timezone: Etc/UTC
-  place: Paris, France
-  date: "June 26"
-  tags: [SEC, PRIV, CRYPTO, SHOP]
+  date: "Jan 17-19, 2024"
+  link: https://popl24.sigplan.org/
+  deadline: ["2023-07-11 AoE"]
+  place: London, UK
