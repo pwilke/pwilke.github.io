@@ -2017,13 +2017,13 @@
 
 - name: EuroSys
   description: European Conference on Computer Systems
-  link: https://www.eurosys.org/news/eurosys-2024
-  date: "April 23-26"
-  year: 2024
+  link: https://2025.eurosys.org/
+  date: "March 30 - April 3"
+  year: 2025
   deadline:
-    - "2023-05-24"
-    - "2023-10-19"
-  place: Athens, Greece
+    - "2024-05-21"
+    - "2024-10-22"
+  place: Rotterdam
   tags: [SYS, CONF]
 
 - name: IFIP Sec
