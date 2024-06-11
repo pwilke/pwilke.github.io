@@ -1,10 +1,10 @@
 ---
    
 # Security and Privacy
-
+  
 - name: S&P (Oakland)
   year: 2025
-  date: "TBD"
+  date: May 12-15
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2025
   deadline:
@@ -63,7 +63,7 @@
   link: https://asiaccs2025.hust.edu.vn/
   deadline:
     - "2024-09-20 23:59"
-    - "2025-01-15 23:59"
+    - "2025-01-20 23:59"
   date: "August 25-29"
   place: Hanoi, Vietnam
   tags: [SEC, PRIV, CONF]
@@ -77,7 +77,7 @@
     - "2024-10-01 23:59"
     - "2025-02-04 23:59"
   date: July
-  place: TBD
+  place: Santa Cruz, CA, USA
   tags: [SEC, PRIV, CONF]
 
 - name: CANS
@@ -142,7 +142,7 @@
   description: Information Security Conference
   year: 2024
   link: https://isc24.cs.gmu.edu/
-  deadline: ["2024-06-06 23:59"]
+  deadline: ["2024-06-13 23:59"]
   date: "October 23-25"
   place: Arlington, VA, USA
   tags: [SEC, PRIV, CONF]
@@ -157,12 +157,32 @@
   tags: [SEC, PRIV, CONF]
 
 - name: FPS
-  year: 2023
-  date: "Dec 11–13"
+  year: 2024
+  date: "Dec 9–11"
   description: Foundations and Practice of Security Symposium
-  link: https://www.fps-2023.com
-  deadline: ["2023-09-15 23:59"]
-  place: Bordeaux, France
+  link: https://fps-2024.hec.ca
+  deadline: ["2024-09-06 23:59"]
+  place: Montreal, Canada
+  tags: [SEC, PRIV, CRYPTO, CONF]
+
+- name: SecureComm
+  year: 2024
+  date: "Oct 28–30"
+  description: International Conference on Security and Privacy in Communication Networks
+  link: https://securecomm.eai-conferences.org/2024/
+  deadline:
+    - "2024-05-10 23:59"
+    - "2024-07-01 23:59"
+  place: Dubai, UAE
+  tags: [SEC, CONF]
+  
+- name: NSS-SocialSec
+  description: International Conference on Network and System Security and International Symposium on Security and Privacy in Social Networks and Big Data
+  year: 2024
+  link: http://nsclab.org/nss-socialsec2024/index.html
+  deadline: ["2024-07-01 23:59"]
+  date: Nov 20-22
+  place: Abu Dhabi, UAE
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: IMF
@@ -213,7 +233,6 @@
     - "%Y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
-  timezone: Etc/GMT+11
   date: July 2025 (TBC)
   place: Washington, DC
   tags: [PRIV, CONF]
@@ -310,7 +329,7 @@
   description: Theory of Cryptography Conference
   year: 2024
   link: https://tcc.iacr.org/2024/
-  timezone: "Etc/UTC-2"
+  timezone: "Etc/GMT-2"
   deadline: ["2024-05-20 20:00"]
   date: "December 2-6"
   place: Milan, Italy
@@ -539,7 +558,7 @@
   year: 2024
   date: "May 27 - 28"
   description: ESA Security for Space Systems Conference
-  timezone: Etc/UTC-2
+  timezone: Etc/GMT-2
   deadline: ["2024-02-08 23:59"]
   link: https://atpi.eventsair.com/24a06---3s2024/
   place: ESTEC, Noordwijk, Netherlands
@@ -705,12 +724,11 @@
 
 - name: CNS
   description: IEEE Conference on Communications and Network Security
-  year: 2023
-  link: https://cns2023.ieee-cns.org/
-  deadline: ["2023-06-18 23:59"]
-  timezone: Etc/UTC
-  date: October 2-5
-  place: Orlando, FL, USA
+  year: 2024
+  link: https://cns2024.ieee-cns.org/
+  deadline: ["2024-06-10 23:59"]
+  date: September 30 - October 3
+  place: Taipei, Taiwan
   tags: [SEC, PRIV, CONF]
 
 - name: HASP
