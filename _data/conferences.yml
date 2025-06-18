@@ -1978,189 +1978,188 @@
 
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
-  year: 2024
-  date: "July 10-12, 2024"
+  year: 2025
+  date: "July 7-9, 2025"
   link: https://www.usenix.org/conference/osdi24/call-for-papers
-  deadline: ["2023-11-30 22:59"]
-  place: Santa Clara, CA, USA
+  deadline: ["2024-12-03 22:59"]
+  place: Boston, MA, USA
   tags: [FORMAL, CONF, SYS]
 
 - name: POPL
   description: ACM SIGPLAN Symposium on Principles of Programming Languages
-  year: 2025
-  date: "Jan 19-25, 2025"
-  link: https://popl25.sigplan.org/
-  deadline: ["2024-07-11 23:59"]
+  year: 2026
+  date: "Jan 11-17, 2026"
+  link: https://popl26.sigplan.org/
+  deadline: ["2025-07-10 23:59"]
   timezone: Etc/GMT+12
-  place: Denver, CO, USA
+  place: Rennes, France
   tags: [FORMAL, CONF]
 
 - name: ITP
   description: Interactive Theorem Proving
-  year: 2024
-  date: "Sep 9-14, 2024"
+  year: 2025
+  date: "Sep 27-Oct 3, 2025"
   link: https://itp-conference.github.io/
-  deadline: ["2024-03-18 23:59"]
-  comment: Abstract registration Mar. 11th
+  deadline: ["2025-03-19 23:59"]
+  comment: Abstract registration Mar. 12
   timezone: Etc/GMT+12
-  place: Tbilisi, Georgia
+  place: Reykjavik, Iceland
   tags: [FORMAL, CONF]
 
 - name: CAV
   description:  International Conference on Computer Aided Verification
-  link: http://www.i-cav.org/2024/
-  date: "July 22-27, 2024"
-  year: 2024
-  deadline: ["2024-01-19 23:59"]
-  place: Montreal, Canada
+  link: http://conferences.i-cav.org/2025/
+  date: "July 21-25, 2025"
+  year: 2025
+  deadline: ["2025-01-31 23:59"]
+  place: Zagreb, Croatia
   tags: [FORMAL, CONF]
 
 - name: EuroSys
   description: European Conference on Computer Systems
-  link: https://2025.eurosys.org/
-  date: "March 30 - April 3"
-  year: 2025
+  link: https://2026.eurosys.org/
+  date: "April 13-16th 2026"
+  year: 2026
   deadline:
-    - "2024-05-21"
-    - "2024-10-22"
-  place: Rotterdam
+    - "2025-05-08"
+    - "2025-09-18"
+  place: Edinburgh
   tags: [SYS, CONF]
 
 - name: IFIP Sec
   description: International Conference on ICT Systems Security and Privacy Protection
-  year: 2024
-  link: https://ifipsec2024.co.uk
-  place: Edinburgh, United Kingdom
-  date: "Jun 12-14, 2024"
+  year: 2026
+  link: https://ifipsec.org
+  place: Perth, Australia
+  date: "Jun 9-11, 2026"
   deadline:
-    - "2024-01-15 23:59"
+    - "2025-12-19 23:59"
   tags: [SEC, CONF]
 
 - name: ASPLOS
   description: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
-  link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
-  date: "March-April, 2025"
-  place: Rotterdam
-  comment: Colocated with EuroSys
-  year: 2025
+  link: https://www.asplos-conference.org/asplos-2026/
+  date: "March 22-26, 2026"
+  place: Pittsburgh, USA
+  year: 2026
   deadline:
-    - "2024-03-01"
-    - "2024-06-24"
-    - "2024-10-18"
+    - "2025-03-05"
+    - "2025-08-13"
   tags: [SYS, SEC, CONF, FORMAL]
 
 - name: APLAS
-  year: 2024
+  year: 2025
   description: Asian Symposium on Programming Languages and Systems
-  link: https://conf.researchr.org/home/aplas-2024
-  date: "Oct 22-25, 2024"
-  place: Kyoto
-  deadline: ["2024-05-24"]
+  link: https://conf.researchr.org/home/aplas-2025
+  date: "Oct 27-30, 2025"
+  place: Bengaluru, India
+  deadline: ["2025-06-07"]
   tags: [FORMAL, SYS, CONF]
 
 - name: PLDI
-  year: 2024
+  year: 2025
   description: ACM SIGPLAN Conference on Programming Language Design and Implementation
-  link: https://pldi24.sigplan.org/
-  date: "June 24-28, 2024"
-  place: Copenhagen, Denmark
-  deadline: ["2023-11-16 23:59"]
+  link: https://pldi25.sigplan.org/
+  date: "June 18-20, 2025"
+  place: Seoul, South Korea
+  deadline: ["2024-11-14 23:59"]
   tags: [FORMAL, SYS, CONF]
 
 - name: CPP
   year: 2024
   description: Certified Programs and Proofs
-  link: https://popl24.sigplan.org/home/CPP-2024
-  date: "Jan 15-16, 2024"
-  place: London, UK
+  link: https://popl26.sigplan.org/home/CPP-2026
+  date: "Jan 12-13, 2026"
+  place: Rennes, France
   comment: Colocated with POPL
-  deadline: ["2023-09-12 23:59"]
+  deadline: ["2025-09-12 23:59"]
   timezone: Etc/GMT+12
   tags: [FORMAL, CONF]
 
 - name: CC
-  year: 2024
-  link: https://conf.researchr.org/home/CC-2024
+  year: 2025
+  link: https://conf.researchr.org/home/CC-2025
   description: International Conference on Compiler Construction
-  date: "Mar 2-3, 2024"
-  place: Edinburgh, UK
-  deadline: ["2024-01-27"]
+  date: "Mar 1-2, 2025"
+  place: Las Vegas, NV, USA
+  deadline: ["2024-11-12"]
   tags: [CONF, FORMAL]
 
 - name: FM
-  year: 2024
-  link: https://www.fm24.polimi.it/
+  year: 2026
+  link: https://conf.researchr.org/home/fm-2026
   description: International Symposium on Formal Methods
-  date: "Sep 11-13, 2024"
-  place: "Milan, Italy"
-  deadline: ["2024-04-19 23:59"]
-  comment: Abstract registration April 15th AoE (firm).
+  date: "May 18-22, 2026"
+  place: "Tokyo, Japan"
+  deadline: ["2025-12-02 23:59"]
+  comment: Abstract registration Nov 25 AoE.
   tags: [CONF, FORMAL]
 
 - name: iFM
-  year: 2024
-  link: https://ifm2024.cs.manchester.ac.uk/submissions.html
+  year: 2025
+  link: https://ifm2025.ens.psl.eu
   description: International Conference on Integrated Formal Methods
-  date: "November 13-15, 2024"
-  place: "Manchester, UK"
-  deadline: ["2024-06-10 23:59"]
-  comment: Abstract registration June 3rd
+  date: "November 17-21, 2025"
+  place: "Paris, France"
+  deadline: ["2025-06-20 23:59"]
+  comment: Abstract registration June 13
   tags: [CONF, FORMAL]
 
 - name: ICFP
-  year: 2024
-  link: https://icfp24.sigplan.org/
+  year: 2025
+  link: https://icfp25.sigplan.org/
   description: International Conference on Functional Programming
-  place: "Milan, Italy"
-  deadline: ["2024-02-28 23:59"]
-  date: "Sep 2-7, 2024"
+  place: "Singapore"
+  deadline: ["2025-02-27 23:59"]
+  date: "Oct 12-18, 2025"
   tags: [CONF, FORMAL]
 
 - name: SPLASH
-  year: 2024
-  link: https://2024.splashcon.org
+  year: 2025
+  link: https://2025.splashcon.org
   description: "ACM SIGPLAN conference on Systems, Programming, Languages and Applications: Software for Humanity"
-  date: "Oct 20-25, 2024"
-  place: "Pasadena, CA, USA"
+  date: "Oct 12-18, 2024"
+  place: "Singapore"
   deadline:
-    - "2023-10-20 23:59"
-    - "2024-04-05 23:59"
+    - "2024-10-15 23:59"
+    - "2025-03-25 23:59"
   tags: [CONF, FORMAL]
 
-- name: ETAPS
-  year: 2024
-  link: https://www.etaps.org/2024
+- name: ETAPS (ESOP)
+  year: 2025
+  link: https://www.etaps.org/2025
   description: "European Symposium On Programming"
-  date: "Apr 6-11, 2024"
-  place: "Luxembourg"
+  date: "May 3-8, 2025"
+  place: "Hamilton, Canada"
   deadline:
-    - "2023-10-12 23:59"
+    - "2024-05-30 23:59"
+    - "2024-10-10 23:59"
   tags: [CONF, FORMAL]
 
 - name: SOSP
-  year: 2024
-  link: https://sigops.org/s/conferences/sosp/2024/
+  year: 2025
+  link: https://sigops.org/s/conferences/sosp/2025/
   description: "Symposium on Operating Systems Principles"
-  date: "Nov 4-6, 2024"
-  place: "Austin, Texas, USA"
+  date: "Oct 13-16, 2025"
+  place: "Seoul, South Korea"
   deadline:
-    - "2023-04-01 23:59"
+    - "2025-04-17 23:59"
   tags: [CONF, FORMAL, SYS]
 
 - name: SciSec
   description: International Conference on Science of Cyber Security
-  year: 2022
+  year: 2025
   link: https://scisec.org/
-  deadline: ["2022-04-25 23:59"]
-  date: August 10-12
-  place: Matsue city, Japan
+  deadline: ["2025-05-31 23:59"]
+  date: August 15-17
+  place: Wuhan, Hubei, China
   tags: [SEC, CONF]
 
 - name: FCS
   description: Workshop on Foundations of Computer Security
-  year: 2024
-  link: https://fcs-workshop.github.io/fcs2024/
-  deadline: ["2024-05-13 23:59"]
-  date: July 8
-  place: Enschede, The Netherlands
+  year: 2025
+  link: https://fcs-workshop.github.io/fcs2025/
+  deadline: ["2025-04-06 23:59"]
+  date: June 16
+  place: Santa Cruz, CA, USA
   tags: [SEC, CONF, SHOP]
