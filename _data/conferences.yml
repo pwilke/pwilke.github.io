@@ -1416,13 +1416,13 @@
 
 - name: ITP
   description: Interactive Theorem Proving
-  year: 2025
-  date: "Sep 27-Oct 3, 2025"
+  year: 2026
+  date: "Jul 26-29, 2026"
   link: https://itp-conference.github.io/
-  deadline: ["2025-03-19 23:59"]
-  comment: Abstract registration Mar. 12
+  deadline: ["2026-02-19 23:59"]
+  comment: Abstract registration Feb. 12
   timezone: Etc/GMT+12
-  place: Reykjavik, Iceland
+  place: Lisbon, Portugal
   tags: [FORMAL, CONF]
 
 - name: CAV
@@ -1532,7 +1532,7 @@
   place: "Oakland, CA, United States"
   deadline:
     - "2025-10-10 23:59"
-    - "2026-03-217 23:59"
+    - "2026-03-17 23:59"
   tags: [CONF, FORMAL]
 
 - name: ETAPS (ESOP)
@@ -1564,4 +1564,14 @@
   date: June 16
   place: Santa Cruz, CA, USA
   tags: [SEC, CONF, SHOP]
+
+- name: FormaliSE
+  description: International Conference on Formal Methods in Software Engineering
+  year: 2026
+  link: https://2026.formalise.org/
+  deadline: ["2025-10-23 23:59"]
+  date: April 12-13, 2026
+  place: Rio de Janeiro, Brazil
+  tags: [FORMAL, CONF]
+
 
