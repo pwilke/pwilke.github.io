@@ -1515,12 +1515,12 @@
   tags: [CONF, FORMAL]
 
 - name: ICFP
-  year: 2025
-  link: https://icfp25.sigplan.org/
+  year: 2026
+  link: https://icfp26.sigplan.org/
   description: International Conference on Functional Programming
-  place: "Singapore"
-  deadline: ["2025-02-27 23:59"]
-  date: "Oct 12-18, 2025"
+  place: "Indianapolis, United States"
+  deadline: ["2026-02-19 23:59"]
+  date: "Aug 24-29, 2025"
   tags: [CONF, FORMAL]
 
 - name: SPLASH
@@ -1546,13 +1546,13 @@
   tags: [CONF, FORMAL]
 
 - name: SOSP
-  year: 2025
-  link: https://sigops.org/s/conferences/sosp/2025/
+  year: 2026
+  link: https://sigops.org/s/conferences/sosp/2026/
   description: "Symposium on Operating Systems Principles"
-  date: "Oct 13-16, 2025"
-  place: "Seoul, South Korea"
+  date: "Sep 29-Oct 2, 2026"
+  place: "Prague, Czechia"
   deadline:
-    - "2025-04-17 23:59"
+    - "2026-04-01 23:59"
   tags: [CONF, FORMAL, SYS]
 
 - name: FCS
