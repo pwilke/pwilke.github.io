@@ -5,6 +5,8 @@ filter1:
     tag: PRIV
   - name: Crypto
     tag: CRYPTO
+  - name: Formal
+    tag: FORMAL
 
 filter2:
   - name: Conferences
