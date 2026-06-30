@@ -38,6 +38,94 @@ h2 {
   font-weight: 600;
 }
 
+.rank-badge {
+  display: inline-block;
+  margin-left: 0.35em;
+  padding: 0.05em 0.45em;
+  border: 1px solid #aaa;
+  border-radius: 0.75em;
+  background: #f5f5f5;
+  color: #555;
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1.4;
+  vertical-align: 0.1em;
+}
+
+.rank-astar,
+.rank-a {
+  border-color: #b38b00;
+  background: #fff4bf;
+  color: #705700;
+}
+
+.rank-b {
+  border-color: #6d8da8;
+  background: #eaf3fa;
+  color: #35536c;
+}
+
+.rank-c,
+.rank-unranked {
+  border-color: #aaa;
+  background: #f2f2f2;
+  color: #666;
+}
+
+.venue-workshop,
+.venue-journal {
+  border-color: #8b78a8;
+  background: #f3eef9;
+  color: #57436f;
+}
+
+.domain-labels {
+  margin-top: 0.35em;
+}
+
+.domain-label {
+  display: inline-block;
+  margin: 0.15em 0.25em 0 0;
+  padding: 0.05em 0.5em;
+  border: 1px solid #b8b8b8;
+  border-radius: 0.25em;
+  background: #f7f7f7;
+  color: #555;
+  font-size: 0.72em;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.domain-sec {
+  border-color: #c97872;
+  background: #fbeceb;
+  color: #7d302a;
+}
+
+.domain-priv {
+  border-color: #7b93b8;
+  background: #edf3fa;
+  color: #365477;
+}
+
+.domain-crypto {
+  border-color: #9a83b5;
+  background: #f3eef8;
+  color: #5e4778;
+}
+
+.domain-formal {
+  border-color: #6d9a78;
+  background: #edf7ef;
+  color: #356441;
+}
+
+.domain-sys {
+  border-color: #b08a55;
+  background: #faf2e7;
+  color: #765326;
+}
+
 .page-header {
   margin-top: 2em;
 }

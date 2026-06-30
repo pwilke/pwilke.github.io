@@ -368,7 +368,7 @@
   deadline: ["2026-03-01 23:59"]
   date: July 08-10
   place: Hammamet, Tunisia
-  tags: [CRYPTO, CONF, OTHERS]
+  tags: [CRYPTO, CONF, CORE-B]
 
 # Don't delete Latincrypt since it is often once every few years
 - name: LATINCRYPT
@@ -562,7 +562,7 @@
   deadline: ["2026-06-10 23:59"]
   date: November 15-18
   place: Shatin, Hong Kong
-  tags: [SEC, CONF, PRIV, CORE-A]
+  tags: [SEC, CONF, PRIV, SYS, CORE-A]
 
 - name: eCrime
   year: 2026
@@ -695,7 +695,7 @@
   deadline: ["2025-10-17 23:59"]
   date: March 23-27
   place: Thessaloniki, Greece
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, OTHERS]
 
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
@@ -704,7 +704,7 @@
   deadline: ["2025-04-24 23:59"]
   date: October 19-22
   place: Gold Coast, Australia
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, CORE-A]
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
@@ -713,7 +713,7 @@
   deadline: ["2025-05-30 23:59"]
   date: Dec 9-13
   place: Honolulu, Hawaii, USA
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, CORE-A]
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
@@ -846,7 +846,7 @@
     - "2026-02-26 23:59"
   date: July 6-9
   place: Perth, Australia
-  tags: [SEC, PRIV, CONF, OTHERS]
+  tags: [SEC, PRIV, CONF, CORE-B]
 
 - name: ITASEC
   description: Italian Conference on Cybersecurity
@@ -1152,7 +1152,7 @@
   deadline: ["2026-05-18 23:59"]
   date: September 14 - 17
   place: Newark, DE, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: HASP
   description: Hardware and Architectural Support for Security and Privacy
@@ -1238,7 +1238,7 @@
     - "2025-12-05 23:59"
   date: February 27
   place: San Diego, California, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: PRISM
   description: Workshop on Attack Provenance, Reasoning, and Investigation for Security in the Monitored Environment
@@ -1261,7 +1261,7 @@
     - "2026-03-03 23:59"
   date: August 10–11
   place: Baltimore, MD, USA
-  tags: [SEC, PRIV, CRYPTO, CONF]
+  tags: [SEC, PRIV, CRYPTO, CONF, OTHERS]
 
 - name: SafeThings
   description: IEEE/ACM Workshop on the Internet of Safe Things
@@ -1373,7 +1373,7 @@
     - "2026-07-10 23:59"
   date: December 16-20
   place: CMI Chennai, India
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: CPSS
   description: ACM Cyber-Physical System Security Workshop
@@ -1463,7 +1463,7 @@
     - "2026-07-16 23:59"
   date: November 5–6
   place: Detroit, MI, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: CCSW
   description: The ACM Cloud Computing Security Workshop
@@ -1483,7 +1483,7 @@
   comment: Initial submission with abstract required Oct 31st.
   date: April 14-16
   place: Saint-Malo, France
-  tags: [CRYPTO, CONF]
+  tags: [CRYPTO, CONF, CORE-C]
 
 - name: WAITI
   description: Workshop on AI for Cyber Threat Intelligence
@@ -1583,7 +1583,7 @@
     - "2026-10-27 23:59"
   date: February 3-4
   place: Amsterdam, Netherlands
-  tags: [SEC, PRIV, CONF, CRYPTO]
+  tags: [SEC, PRIV, CONF, CRYPTO, OTHERS]
 
 - name: HS3
   description: Workshop on Hardware-Supported Software Security
@@ -1665,7 +1665,7 @@
   deadline: ["2026-06-01 23:59"]
   date: December 2-4
   place: Bratislava, Slovakia
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, OTHERS]
 
 - name: ADHOCNETS
   description: EAI International Conference on Ad Hoc Networks
@@ -1674,7 +1674,7 @@
   deadline: ["2025-10-20 23:59"]
   date: December 4-5
   place: Istanbul, Turkey
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, OTHERS]
 
 - name: EuroSec
   description: European Workshop on Systems Security
@@ -1768,7 +1768,7 @@
   deadline: ["2025-12-11 22:59"]
   comment: Abstract registration Dec. 4
   place: Seattle, WA, USA
-  tags: [FORMAL, CONF, SYS]
+  tags: [FORMAL, CONF, SYS, ASTAR]
 
 - name: POPL
   description: ACM SIGPLAN Symposium on Principles of Programming Languages
@@ -1778,7 +1778,7 @@
   deadline: ["2026-07-09 23:59"]
   timezone: Etc/GMT+12
   place: Mexico City, Mexico
-  tags: [FORMAL, CONF]
+  tags: [FORMAL, CONF, ASTAR]
 
 - name: ITP
   description: Interactive Theorem Proving
@@ -1789,7 +1789,7 @@
   comment: Abstract registration Feb. 12
   timezone: Etc/GMT+12
   place: Lisbon, Portugal
-  tags: [FORMAL, CONF]
+  tags: [FORMAL, CONF, CORE-B]
 
 - name: CAV
   description:  International Conference on Computer Aided Verification
@@ -1798,7 +1798,7 @@
   year: 2026
   deadline: ["2026-01-28 23:59"]
   place: Lisbon, Portugal
-  tags: [FORMAL, CONF]
+  tags: [FORMAL, CONF, ASTAR]
 
 - name: EuroSys
   description: European Conference on Computer Systems
@@ -1809,7 +1809,7 @@
     - "2025-05-08"
     - "2025-09-18"
   place: Edinburgh
-  tags: [SYS, CONF]
+  tags: [SYS, CONF, CORE-A]
 
 - name: ASPLOS
   description: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
@@ -1820,7 +1820,7 @@
   deadline:
     - "2026-04-15 23:59"
     - "2026-09-09 23:59"
-  tags: [SYS, SEC, CONF, FORMAL]
+  tags: [SYS, SEC, CONF, FORMAL, ASTAR]
 
 - name: APLAS
   year: 2026
@@ -1829,7 +1829,7 @@
   date: "Dec 1-5, 2026"
   place: Hong Kong
   deadline: ["2026-06-22 23:59"]
-  tags: [FORMAL, SYS, CONF]
+  tags: [FORMAL, SYS, CONF, CORE-B]
 
 - name: PLDI
   year: 2026
@@ -1838,7 +1838,7 @@
   date: "June 15-19, 2026"
   place: Boulder, Colorado, USA
   deadline: ["2025-11-13 23:59"]
-  tags: [FORMAL, SYS, CONF]
+  tags: [FORMAL, SYS, CONF, ASTAR]
 
 - name: CPP
   year: 2027
@@ -1849,7 +1849,7 @@
   comment: Colocated with POPL
   deadline: ["2026-09-12 23:59"]
   timezone: Etc/GMT+12
-  tags: [FORMAL, CONF]
+  tags: [FORMAL, CONF, CORE-B]
 
 - name: CC
   year: 2027
@@ -1859,7 +1859,7 @@
   place: "Salt Lake City, Utah, USA"
   deadline: ["2026-11-09 23:59"]
   comment: Tentative deadline based on joint conference schedule.
-  tags: [CONF, FORMAL]
+  tags: [CONF, FORMAL, CORE-B]
 
 - name: FM
   year: 2027
@@ -1868,7 +1868,7 @@
   date: "October 18-22, 2027"
   place: "Athens, Greece"
   deadline: ["2027-04-15 23:59"]
-  tags: [CONF, FORMAL]
+  tags: [CONF, FORMAL, CORE-B]
 
 - name: iFS
   year: 2027
@@ -1878,7 +1878,7 @@
   place: "Copenhagen, Denmark"
   deadline: ["2026-10-15 23:59"]
   comment: Merger of iFM and FASE, part of ETAPS 2027.
-  tags: [CONF, FORMAL]
+  tags: [CONF, FORMAL, OTHERS]
 
 - name: ICFP
   year: 2026
@@ -1887,7 +1887,7 @@
   place: "Indianapolis, United States"
   deadline: ["2026-02-19 23:59"]
   date: "Aug 24-29, 2026"
-  tags: [CONF, FORMAL]
+  tags: [CONF, FORMAL, CORE-A]
 
 - name: SPLASH
   year: 2027
@@ -1898,7 +1898,7 @@
   deadline:
     - "2027-04-15 23:59"
     - "2027-07-15 23:59"
-  tags: [CONF, FORMAL]
+  tags: [CONF, FORMAL, OTHERS]
 
 - name: ETAPS (ESOP)
   year: 2027
@@ -1909,7 +1909,7 @@
   deadline:
     - "2026-05-28 23:59"
     - "2026-10-15 23:59"
-  tags: [CONF, FORMAL]
+  tags: [CONF, FORMAL, CORE-A]
 
 - name: SOSP
   year: 2026
@@ -1919,7 +1919,44 @@
   place: "Prague, Czechia"
   deadline:
     - "2026-04-01 23:59"
-  tags: [CONF, FORMAL, SYS]
+  tags: [CONF, FORMAL, SYS, ASTAR]
+
+- name: Middleware
+  description: ACM/IFIP International Middleware Conference
+  year: 2026
+  link: https://middleware-conf.github.io/2026/
+  dblp: https://dblp.org/db/conf/middleware/index.html
+  deadline: ["2026-06-05 23:59"]
+  comment: Abstract registration required by May 29, 2026.
+  date: December 14-18
+  place: Tarragona, Spain
+  tags: [SYS, CONF, CORE-A]
+
+- name: NSDI
+  description: USENIX Symposium on Networked Systems Design and Implementation
+  year: 2027
+  link: https://www.usenix.org/conference/nsdi27/call-for-papers
+  dblp: https://dblp.org/db/conf/nsdi/index.html
+  deadline:
+    - "2026-04-23 23:59"
+    - "2026-09-17 23:59"
+  timezone: America/New_York
+  comment: Title and abstract registration required one week before each deadline.
+  date: May 11-13
+  place: Providence, RI, USA
+  tags: [SYS, CONF, OTHERS]
+
+- name: FAST
+  description: USENIX Conference on File and Storage Technologies
+  year: 2027
+  link: https://www.usenix.org/conference/fast27/call-for-papers
+  dblp: https://dblp.org/db/conf/fast/index.html
+  deadline:
+    - "2026-03-17 23:59"
+    - "2026-09-15 23:59"
+  date: February 23-25
+  place: Renton, WA, USA
+  tags: [SYS, CONF, CORE-A]
 
 - name: FCS
   description: Workshop on Foundations of Computer Security
@@ -1928,7 +1965,7 @@
   deadline: ["2025-04-06 23:59"]
   date: June 16
   place: Santa Cruz, CA, USA
-  tags: [SEC, CONF, SHOP]
+  tags: [SEC, CONF, SHOP, OTHERS]
 
 - name: FormaliSE
   description: International Conference on Formal Methods in Software Engineering
@@ -1937,7 +1974,7 @@
   deadline: ["2026-11-06 23:59"]
   date: "April 25-27, 2027"
   place: Dublin, Ireland
-  tags: [FORMAL, CONF]
+  tags: [FORMAL, CONF, OTHERS]
 
 - name: ACSW
   description: Workshop on Automotive Cyber-Security
@@ -2306,4 +2343,3 @@
   date: October 12-16
   place: Munich, Germany
   tags: [SEC, SHOP, OTHERS]
-

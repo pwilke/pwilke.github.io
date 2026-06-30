@@ -92,10 +92,47 @@
         {% assign prevyear = conf.year | minus: 1 %}
         {% assign deadline = conf.deadline[i] | replace: '%y', year | replace: '%Y', prevyear %}
         {% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
+        {% assign rank_label = nil %}
+        {% assign rank_class = nil %}
+        {% assign badge_title = nil %}
+        {% if conf.tags contains 'SHOP' %}
+          {% assign rank_label = 'Workshop' %}
+          {% assign rank_class = 'venue-workshop' %}
+          {% assign badge_title = 'Publication type: Workshop' %}
+        {% elsif conf.tags contains 'JRN' %}
+          {% assign rank_label = 'Journal' %}
+          {% assign rank_class = 'venue-journal' %}
+          {% assign badge_title = 'Publication type: Journal' %}
+        {% elsif conf.tags contains 'ASTAR' %}
+          {% assign rank_label = 'A*' %}
+          {% assign rank_class = 'rank-astar' %}
+          {% assign badge_title = 'ICORE rank: A*' %}
+        {% elsif conf.tags contains 'CORE-A' %}
+          {% assign rank_label = 'A' %}
+          {% assign rank_class = 'rank-a' %}
+          {% assign badge_title = 'ICORE rank: A' %}
+        {% elsif conf.tags contains 'CORE-B' %}
+          {% assign rank_label = 'B' %}
+          {% assign rank_class = 'rank-b' %}
+          {% assign badge_title = 'ICORE rank: B' %}
+        {% elsif conf.tags contains 'CORE-C' %}
+          {% assign rank_label = 'C' %}
+          {% assign rank_class = 'rank-c' %}
+          {% assign badge_title = 'ICORE rank: C' %}
+        {% elsif conf.tags contains 'OTHERS' %}
+          {% assign rank_label = 'Unranked' %}
+          {% assign rank_class = 'rank-unranked' %}
+          {% assign badge_title = 'ICORE: National or unranked' %}
+        {% endif %}
         <div id="{{ conf_id }}" class="conf {% for tag in conf.tags %} {{tag}} {% endfor %}">
           <div class="row">
               <div class="col-xs-12 col-sm-6">
-                <h2><a href="{{conf.link}}">{{conf.name}} {{conf.year}}</a></h2>
+                <h2>
+                  <a href="{{conf.link}}">{{conf.name}} {{conf.year}}</a>
+                  {% if rank_label %}
+                  <span class="rank-badge {{ rank_class }}" title="{{ badge_title }}">{{ rank_label }}</span>
+                  {% endif %}
+                </h2>
                 <div class="meta">
                   {{ conf.description }}<br />
                   {% if conf.dblp %}
@@ -118,6 +155,13 @@
                     </span>
                     <div class="meta">
                       {{ conf.comment }}
+                    </div>
+                    <div class="domain-labels" aria-label="Research domains">
+                      {% for domain in site.data.filters.filter1 %}
+                        {% if conf.tags contains domain.tag %}
+                        <span class="domain-label domain-{{ domain.tag | downcase }}">{{ domain.name }}</span>
+                        {% endif %}
+                      {% endfor %}
                     </div>
                   </div>
                 </div>

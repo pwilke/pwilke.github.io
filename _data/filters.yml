@@ -7,6 +7,8 @@ filter1:
     tag: CRYPTO
   - name: Formal
     tag: FORMAL
+  - name: System
+    tag: SYS
 
 filter2:
   - name: Conferences
