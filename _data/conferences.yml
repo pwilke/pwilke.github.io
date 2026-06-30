@@ -444,7 +444,7 @@
   place: Lancaster, UK
   tags: [SEC, CONF, CORE-A]
 
-- name: SAC
+- name: ACM SAC
   description: ACM/SIGAPP Symposium On Applied Computing
   year: 2027
   link: https://www.sigapp.org/sac/sac2027
@@ -686,40 +686,6 @@
   place: Heilbronn, Germany
   tags: [CRYPTO, CONF, OTHERS]
 
-# Networks and systems, applications
-
-- name: ACM SAC
-  description: ACM/SIGAPP Symposium On Applied Computing
-  year: 2026
-  link: https://www.sigapp.org/sac/sac2026/
-  deadline: ["2025-10-17 23:59"]
-  date: March 23-27
-  place: Thessaloniki, Greece
-  tags: [SEC, CONF, OTHERS]
-
-- name: RAID
-  description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2025
-  link: https://raid2025.github.io
-  deadline: ["2025-04-24 23:59"]
-  date: October 19-22
-  place: Gold Coast, Australia
-  tags: [SEC, CONF, CORE-A]
-
-- name: ACSAC
-  description: Annual Computer Security Applications Conference
-  year: 2025
-  link: https://www.acsac.org/2025/submissions/papers/
-  deadline: ["2025-05-30 23:59"]
-  date: Dec 9-13
-  place: Honolulu, Hawaii, USA
-  tags: [SEC, CONF, CORE-A]
-
-- name: DSN
-  description: The International Conference on Dependable Systems and Networks
-  year: 2026
-  link: https://dsn2026.github.io/
-  deadline: ["2025-12-04 23:59"]
 # Software Engineering (Research Track only)
 - name: ICSE
   description: IEEE/ACM International Conference on Software Engineering
@@ -1762,12 +1728,12 @@
 
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
-  year: 2026
-  date: "July 13-15, 2026"
-  link: https://www.usenix.org/conference/osdi26/call-for-papers
-  deadline: ["2025-12-11 22:59"]
-  comment: Abstract registration Dec. 4
-  place: Seattle, WA, USA
+  year: 2027
+  date: "July 7-9, 2027"
+  link: https://www.usenix.org/conference/osdi27
+  deadline: ["2026-12-08 23:59"]
+  comment: Abstract registration required by December 1, 2026.
+  place: Baltimore, MD, USA
   tags: [FORMAL, CONF, SYS, ASTAR]
 
 - name: POPL
@@ -1802,13 +1768,14 @@
 
 - name: EuroSys
   description: European Conference on Computer Systems
-  link: https://2026.eurosys.org/
-  date: "April 13-16th 2026"
-  year: 2026
+  link: https://2027.eurosys.org/cfp.html
+  date: "April 19-23, 2027"
+  year: 2027
   deadline:
-    - "2025-05-08"
-    - "2025-09-18"
-  place: Edinburgh
+    - "2026-05-14 23:59"
+    - "2026-09-24 23:59"
+  comment: Abstract registration required one week before each deadline.
+  place: Rabat, Morocco
   tags: [SYS, CONF, CORE-A]
 
 - name: ASPLOS
